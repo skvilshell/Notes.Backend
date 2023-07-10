@@ -2,7 +2,7 @@
 
 namespace Notes.Persistence
 {
-    internal class DbInitializer
+    public class DbInitializer
     {
         public static void Initialize(NotesDbContext context)
         {
